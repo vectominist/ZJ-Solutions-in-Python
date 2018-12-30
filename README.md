@@ -1,2 +1,2 @@
 # ZJ_Solution_Python
-Solution to ZeroJudge
+Solution to ZeroJudge in Python

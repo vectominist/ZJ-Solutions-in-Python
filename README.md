@@ -2,6 +2,6 @@
 Solution to ZeroJudge in Python
 
 ## Folders
-1. Basic: 基礎題庫
-2. Other: 
-3. Templates: 
+* Basic： 基礎題庫
+* Other： 原創/不分類題目
+* Templates： 一些模板

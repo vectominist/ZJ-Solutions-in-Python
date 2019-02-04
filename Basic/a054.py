@@ -23,3 +23,4 @@ for s in sys.stdin:
 	
 	# print(cnt)
 	print(ans[(10 - (cnt % 10)) % 10])
+

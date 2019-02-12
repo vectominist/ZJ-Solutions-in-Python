@@ -1,4 +1,5 @@
 import sys
+# zero judge a129
 
 # union find tree
 MAXN = 100005

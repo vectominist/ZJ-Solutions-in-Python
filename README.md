@@ -1,4 +1,4 @@
-# ZJ_Solution_Python
+# ZJ-Solutions-in-Python
 Solution to ZeroJudge in Python
 
 ## Folders
